@@ -1,0 +1,15 @@
+Manga Downloader using python
+
+Requirements: BeautifulSoup
+Somehow Install That
+
+After that run python mangadownloader.py
+
+Follow Instructions after that
+
+Note::::
+1) Path is preferably from mangareader.net. Enter the starting url unless you want to do something weird and stupid
+
+2) The Destination Path must be properly define from a linux command line perspective. Especially, the path must be suffixed with a / otherwise it will not work the way you want it to.
+
+S Shravan Kumar
